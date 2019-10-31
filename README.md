@@ -1,2 +1,0 @@
-# jtp
-Learning purpose
